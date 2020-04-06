@@ -1,3 +1,4 @@
+/* eslint-disable consistent-return */
 const localStorageKey = '___token__';
 
 function logout() {

@@ -8,6 +8,8 @@ import Dashboard from './pages/Dashboard';
 import NotFound from './pages/NotFound';
 import { AuthRoute, PrivateRoute } from './utils/router';
 import { UserContextProvider } from './contexts/UserContext';
+import '../scss/style.scss';
+import '../vendors/ti-icons/css/themify-icons.css';
 
 function App() {
   return (
